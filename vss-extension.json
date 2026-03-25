@@ -1,9 +1,9 @@
 {
     "manifestVersion": 1,
-    "id": "compile-type-script",
+    "id": "compile-type-script-benyu7",
     "name": "Compile TypeScript",
-    "version": "0.0.1",
-    "publisher": "bool",
+    "version": "0.0.2",
+    "publisher": "benyu7",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services.Cloud"
@@ -11,7 +11,7 @@
     ],
     "description": "Compile TypeScript projects and files",
     "categories": [
-        "Build and release"
+        "Azure Pipelines"
     ],
     "tags": [
         "Build task", "Build", "Continuous Integration", "TypeScript", "Compile"
@@ -27,7 +27,7 @@
     },
     "links": {
         "support": {
-            "uri": "https://github.com/BoolBySigma/CompileTypeScript/issues"
+            "uri": "https://github.com/benyu7/CompileTypeScript/issues"
         }
     },
     "files": [
@@ -50,5 +50,6 @@
                 "name": "compile-type-script-task"
             }
         }
-    ]
+    ],
+    "public": true
 }

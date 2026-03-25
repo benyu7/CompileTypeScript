@@ -1,4 +1,6 @@
 # Compile TypeScript
+Fork of https://github.com/BoolBySigma/CompileTypeScript
+
 Compile TypeScript projects and files. No more need to locally compile .ts files.
 
 This build task always runs the latest version of TypeScript. No need to install or maintain TypeScript on the build agent.
@@ -23,4 +25,4 @@ Parameters include:
 
 
 ## Having Problems?
-Please [create an issue on our Github](https://github.com/BoolBySigma/CompileTypeScript/issues) and we will try to help you.
+Please [create an issue on our Github](https://github.com/benyu7/CompileTypeScript/issues) and we will try to help you.

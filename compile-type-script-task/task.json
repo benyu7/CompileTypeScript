@@ -1,15 +1,15 @@
 {
-    "id": "3933420c-5028-40d7-9eae-2f17f5484e17",
+    "id": "3814bc81-9bbd-4930-b305-c377a6d6fee6",
     "name": "compile-type-script",
     "friendlyName": "Compile TypeScript",
     "description": "Compile TypeScript project or files",
-    "helpMarkDown": "Having Problems? Please [create an issue on our Github](https://github.com/BoolBySigma/CompileTypeScript/issues) and we will try to help you.",
+    "helpMarkDown": "Having Problems? Please [create an issue on our Github](https://github.com/benyu7/CompileTypeScript/issues) and we will try to help you.",
     "category": "Build",
-    "author": "Martin Nilsson",
+    "author": "Ben Yu",
     "version": {
         "Major": 0,
         "Minor": 0,
-        "Patch": 1
+        "Patch": 2
     },
     "instanceNameFormat": "Compile TypeScript",
     "inputs": [
