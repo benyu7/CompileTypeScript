@@ -2,3 +2,7 @@ node_modules
 //*.js
 *.log
 .taskkey
+
+*.vsix
+
+*.js

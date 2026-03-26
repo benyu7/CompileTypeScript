@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "compile-type-script-benyu7",
     "name": "Compile TypeScript",
-    "version": "0.0.2",
+    "version": "0.0.6",
     "publisher": "benyu7",
     "targets": [
         {
@@ -32,7 +32,7 @@
     },
     "files": [
         {
-            "path": "compile-type-script-task"
+            "path": "compile-type-script-benyu7-task"
         },
         {
             "path": "images",
@@ -41,13 +41,13 @@
     ],
     "contributions": [
         {
-            "id": "compile-type-script-task",
+            "id": "compile-type-script-benyu7-task",
             "type": "ms.vss-distributed-task.task",
             "targets": [
                 "ms.vss-distributed-task.tasks"
             ],
             "properties": {
-                "name": "compile-type-script-task"
+                "name": "compile-type-script-benyu7-task"
             }
         }
     ],
