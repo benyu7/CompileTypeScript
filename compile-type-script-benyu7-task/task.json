@@ -1,7 +1,7 @@
 {
     "id": "ed6c83d8-4120-4d2b-94b1-3fcc054bcabe",
     "name": "compile-type-script-benyu7",
-    "friendlyName": "Compile TypeScript",
+    "friendlyName": "Compile TypeScript Fork",
     "description": "Compile TypeScript project or files",
     "helpMarkDown": "Having Problems? Please [create an issue on our Github](https://github.com/benyu7/CompileTypeScript/issues) and we will try to help you.",
     "category": "Build",
@@ -11,7 +11,7 @@
         "Minor": 0,
         "Patch": 0
     },
-    "instanceNameFormat": "Compile TypeScript",
+    "instanceNameFormat": "Compile TypeScript Fork",
     "inputs": [
         {
             "name": "compileType",

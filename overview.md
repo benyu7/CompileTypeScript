@@ -1,4 +1,4 @@
-# Compile TypeScript
+# Compile TypeScript Fork
 Fork of https://github.com/BoolBySigma/CompileTypeScript
 
 Compile TypeScript projects and files. No more need to locally compile .ts files.

@@ -1,8 +1,8 @@
 {
     "manifestVersion": 1,
     "id": "compile-type-script-benyu7",
-    "name": "Compile TypeScript",
-    "version": "0.0.6",
+    "name": "Compile TypeScript Fork",
+    "version": "0.0.7",
     "publisher": "benyu7",
     "targets": [
         {
