@@ -7,9 +7,9 @@
     "category": "Build",
     "author": "Ben Yu",
     "version": {
-        "Major": 1,
+        "Major": 0,
         "Minor": 0,
-        "Patch": 0
+        "Patch": 10
     },
     "instanceNameFormat": "Compile TypeScript Fork",
     "inputs": [
@@ -62,7 +62,7 @@
         }
     ],
     "execution": {
-        "Node": {
+        "Node16": {
             "target": "index.js",
             "argumentFormat": ""
         }
